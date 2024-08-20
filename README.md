@@ -1,5 +1,5 @@
 # TaxiCab Data Analysis Project
-This project is part of a Data Analyst Technical Challenge aimed at analyzing taxi trip data for TaxiCab, a leading taxi service in New York City. The analysis focuses on cleaning the data, deriving insights, and visualizing key trends that can help TaxiCab scale its business.
+This project is part of a Data Analyst Technical Challenge, showcasing my Python skills in handling raw data, performing exploratory data analysis (EDA), and preparing a clean dataset for visualization in Tableau. The analysis focuses on taxi trip data from New York City and addresses key business concerns for TaxiCab, a leading taxi service.
 
 For the data dictionary, raw data, and detailed project requirements, please refer to the GitHub repository:
 [Data Analyst Taxi Technical Challenge](https://github.com/TheDataFoundryAU/da-taxi-tech-challenge).
