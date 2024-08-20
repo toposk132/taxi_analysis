@@ -1,6 +1,9 @@
 # TaxiCab Data Analysis Project
 This project is part of a Data Analyst Technical Challenge aimed at analyzing taxi trip data for TaxiCab, a leading taxi service in New York City. The analysis focuses on cleaning the data, deriving insights, and visualizing key trends that can help TaxiCab scale its business.
 
+For the data dictionary, raw data, and detailed project requirements, please refer to the GitHub repository:
+Data Analyst Taxi Technical Challenge.
+
 ## Project Overview
 TaxiCab's CEO, Henry Bentley, lacks complete visibility into how well the company is performing and is seeking insights to identify growth opportunities. This project aims to address the following key concerns:
 
