@@ -1,28 +1,28 @@
-#TaxiCab Data Analysis Project
+# TaxiCab Data Analysis Project
 This project is part of a Data Analyst Technical Challenge aimed at analyzing taxi trip data for TaxiCab, a leading taxi service in New York City. The analysis focuses on cleaning the data, deriving insights, and visualizing key trends that can help TaxiCab scale its business.
 
-##Project Overview
+## Project Overview
 TaxiCab's CEO, Henry Bentley, lacks complete visibility into how well the company is performing and is seeking insights to identify growth opportunities. This project aims to address the following key concerns:
 
 * Average Tip Analysis: Determine the average tip received by a vendor during the day.
-Busiest Time of Day: Identify which time of the day is the busiest for taxi trips.
-Data Cleaning: Clean the data to fix any anomalies and prepare it for analysis.
-Payment Type Classification: Classify trips based on the actual payment type using a metadata table for reference.
-Congestion Surcharge Analysis: Explore any relationship between congestion surcharge and trip distance.
+* Busiest Time of Day: Identify which time of the day is the busiest for taxi trips.
+* Data Cleaning: Clean the data to fix any anomalies and prepare it for analysis.
+* Payment Type Classification: Classify trips based on the actual payment type using a metadata table for reference.
+* Congestion Surcharge Analysis: Explore any relationship between congestion surcharge and trip distance.
 Additionally, the project seeks to provide extra insights beyond the initial problem statement to help TaxiCab enhance its operations.
 
-##Key Features
-1.Data Handling:
-- Working with raw data in both CSV and JSON formats.
-- Cleaning and preparing the data for analysis.
-2.Exploratory Data Analysis (EDA):
-- Analyzing key aspects such as average tips, busiest times of day, and relationships between various factors like congestion surcharge and trip distance.
-3.Final Dataset Preparation:
-- Cleaning and organizing the data into a final dataset suitable for visualization.
-4.Visualization in Tableau:
-- Using Tableau to create dashboards that provide clear, actionable insights for TaxiCab's internal team.
+## Key Features
+### 1.Data Handling:
+* Working with raw data in both CSV and JSON formats.
+* Cleaning and preparing the data for analysis.
+### 2.Exploratory Data Analysis (EDA):
+* Analyzing key aspects such as average tips, busiest times of day, and relationships between various factors like congestion surcharge and trip distance.
+### 3.Final Dataset Preparation:
+* Cleaning and organizing the data into a final dataset suitable for visualization.
+### 4.Visualization in Tableau:
+* Using Tableau to create dashboards that provide clear, actionable insights for TaxiCab's internal team.
 
-##Key Insights from the Analysis
+## Key Insights from the Analysis
 Revenue Trend: 
 A slight increasing trend in revenue was observed, with a notable drop on weekends, especially Sundays.
 Busiest Time of Day: 
