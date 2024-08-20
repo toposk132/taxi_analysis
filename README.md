@@ -4,7 +4,7 @@ This project is part of a Data Analyst Technical Challenge, showcasing my Python
 For the data dictionary, raw data, and detailed project requirements, please refer to the GitHub repository:
 [Data Analyst Taxi Technical Challenge](https://github.com/TheDataFoundryAU/da-taxi-tech-challenge).
 
-## Project Overview
+## Challenge
 TaxiCab's CEO, Henry Bentley, lacks complete visibility into how well the company is performing and is seeking insights to identify growth opportunities. This project aims to address the following key concerns:
 
 * Average Tip Analysis: Determine the average tip received by a vendor during the day.
@@ -38,3 +38,8 @@ The highest tips were typically received between 6 PM and 11 PM, with no signifi
 Credit cards were the dominant payment type, with nighttime trips more commonly paid in cash.
 * __Congestion Surcharge vs. Trip Distance:__ 
 No clear trend was found, suggesting the surcharge is influenced by factors other than trip distance.
+
+## Visualizations
+The visualizations for the project were created in Tableau Public. The visuals can be found here: [Taxi_Analysis](https://public.tableau.com/views/taxi_analysis/ExecutiveSum?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link![image](https://github.com/user-attachments/assets/a0497e81-c94b-47b0-b561-287e30ab106d)
+)
+
