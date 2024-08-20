@@ -23,13 +23,15 @@ Additionally, the project seeks to provide extra insights beyond the initial pro
 * Using Tableau to create dashboards that provide clear, actionable insights for TaxiCab's internal team.
 
 ## Key Insights from the Analysis
-* __Revenue Trend:__ A slight increasing trend in revenue was observed, with a notable drop on weekends, especially Sundays.
-* __Busiest Time of Day:__ Weekdays show a surge in trips around 7 AM and peak activity between 2 PM and 3 PM, with a significant drop after 6 PM. On weekends, the trend differs, with no surge in the morning and a decline on Sundays.
-* Target Zones: 
+* __Revenue Trend:__
+A slight increasing trend in revenue was observed, with a notable drop on weekends, especially Sundays.
+* __Busiest Time of Day:__
+Weekdays show a surge in trips around 7 AM and peak activity between 2 PM and 3 PM, with a significant drop after 6 PM. On weekends, the trend differs, with no surge in the morning and a decline on Sundays.
+* __Target Zones:__
 Areas like Midtown Center exhibit low Sunday trip proportions, suggesting opportunities for targeted promotions.
-* Tip Analysis: 
+* __Tip Analysis:__ 
 The highest tips were typically received between 6 PM and 11 PM, with no significant difference between vendors.
-* Payment Type Analysis: 
+* __Payment Type Analysis:__ 
 Credit cards were the dominant payment type, with nighttime trips more commonly paid in cash.
-* Congestion Surcharge vs. Trip Distance: 
+* __Congestion Surcharge vs. Trip Distance:__ 
 No clear trend was found, suggesting the surcharge is influenced by factors other than trip distance.
